@@ -9,12 +9,12 @@ This PetaLinux project targets the Custom SDSoC Environment Platform.
 
 ## Requirement
 
-## Hardware
+### Hardware
 
 * [Zybo Zynq-7000 ARM/FPGA SoC Trainer Board](https://reference.digilentinc.com/reference/programmable-logic/zybo/start)
 
 
-## Software
+### Software
 
 * Xilinx PetaLinux 2017.4
 * Xilinx SDSoC 2017.4
